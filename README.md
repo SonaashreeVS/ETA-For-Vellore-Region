@@ -7,8 +7,8 @@ This module provides Estimated Time of Arrival (ETA) predictions for routes with
 ## ✅ Features
 
 - 📍 **User Input for Start and Destination Points**
-- ⏱️ **Accurate ETA Calculation** using historical data obtained using OpenStreetMap
-- 🗺️ **Map Visualization** for the selected route
+- ⏱️ **Accurate ETA Calculation** using historical data obtained using OpenStreetMap and using the model trained using LightGBM Algorithm.
+- 🗺️ **Map Visualization** for the selected route using Folium
 - 🧭 **Standalone Module** – No integration with alert systems
 - 📊 Designed for **Vellore-specific datasets**
 - ** Tweaks the value of ETA according to time of day, week of the day and highly congested hours**
